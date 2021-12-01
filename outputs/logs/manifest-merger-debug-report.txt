@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/37f37c7259f642907ad2cfdaef597f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/808c66863eb2c751d1c7dec1c1190051/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a9b3f520a99e7f8786151c8214526787/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/d50305cee9c482cf6d709c00b06da513/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/0dde5555284a60674d28d29777d59240/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/c25e23c6baa5178e6fad4ed6d6eba7ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/86a5c013e9c3ce736e814fcacfde5f7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/1872e9e7e1d34450d573942df7e1cbf3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/11aadfd50ae84807f4eb17f3611e1b69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/0052cd6b86640007cd74fb83de751e14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ef485e1199773bbfb8c0a8adc9f17712/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/f94eb1cfd0eb14833abf7f696f3b0c3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a494020bb98f16c116072fa03181a531/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/4cd8faab0b414c5a9bf385f210923bf6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a5c28285ba085b4342f19cf05c34830b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ba1a1db3a94f401a97d9bf6449973f8f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/94d7b5ce9356b5d0acee96f0c4acd656/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/74eec87f5faa5fbc0b9a7a6f1f84454f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/f8629fbd94fb1aea79e91637d23792ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/5ff74be4838ce626354e97a1a0a3f86e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/29005e4012c74af3c61862d17e1ae148/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/4589146aa6c13ab87bf44e83f639b82f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/fb0932fee14d5fb32643428e5ab8eeed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/e9a52b6de0cfb07584f2628fd6f10885/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/fff432f1b8f1e81afdec2434facfb947/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/05b23100d9655d016ebfc227d71e748a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/50dcdf44b64653fa7bef39e364256b81/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/808c66863eb2c751d1c7dec1c1190051/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/808c66863eb2c751d1c7dec1c1190051/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ba1a1db3a94f401a97d9bf6449973f8f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ba1a1db3a94f401a97d9bf6449973f8f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/94d7b5ce9356b5d0acee96f0c4acd656/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/94d7b5ce9356b5d0acee96f0c4acd656/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ba1a1db3a94f401a97d9bf6449973f8f/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:9:9-50
+	android:icon
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:7:9-39
+	android:allowBackup
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.azkarseb7ty.MainActivity
+ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/37f37c7259f642907ad2cfdaef597f5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/37f37c7259f642907ad2cfdaef597f5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/808c66863eb2c751d1c7dec1c1190051/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/808c66863eb2c751d1c7dec1c1190051/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a9b3f520a99e7f8786151c8214526787/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a9b3f520a99e7f8786151c8214526787/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/d50305cee9c482cf6d709c00b06da513/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/d50305cee9c482cf6d709c00b06da513/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/0dde5555284a60674d28d29777d59240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/0dde5555284a60674d28d29777d59240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/c25e23c6baa5178e6fad4ed6d6eba7ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/c25e23c6baa5178e6fad4ed6d6eba7ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/86a5c013e9c3ce736e814fcacfde5f7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/86a5c013e9c3ce736e814fcacfde5f7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/1872e9e7e1d34450d573942df7e1cbf3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/1872e9e7e1d34450d573942df7e1cbf3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/11aadfd50ae84807f4eb17f3611e1b69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/11aadfd50ae84807f4eb17f3611e1b69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/0052cd6b86640007cd74fb83de751e14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/0052cd6b86640007cd74fb83de751e14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ef485e1199773bbfb8c0a8adc9f17712/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ef485e1199773bbfb8c0a8adc9f17712/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/f94eb1cfd0eb14833abf7f696f3b0c3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/f94eb1cfd0eb14833abf7f696f3b0c3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a494020bb98f16c116072fa03181a531/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a494020bb98f16c116072fa03181a531/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/4cd8faab0b414c5a9bf385f210923bf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/4cd8faab0b414c5a9bf385f210923bf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a5c28285ba085b4342f19cf05c34830b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/a5c28285ba085b4342f19cf05c34830b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ba1a1db3a94f401a97d9bf6449973f8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/ba1a1db3a94f401a97d9bf6449973f8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/94d7b5ce9356b5d0acee96f0c4acd656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/94d7b5ce9356b5d0acee96f0c4acd656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/74eec87f5faa5fbc0b9a7a6f1f84454f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/74eec87f5faa5fbc0b9a7a6f1f84454f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/f8629fbd94fb1aea79e91637d23792ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/f8629fbd94fb1aea79e91637d23792ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/5ff74be4838ce626354e97a1a0a3f86e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/5ff74be4838ce626354e97a1a0a3f86e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/29005e4012c74af3c61862d17e1ae148/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/29005e4012c74af3c61862d17e1ae148/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/4589146aa6c13ab87bf44e83f639b82f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/4589146aa6c13ab87bf44e83f639b82f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/fb0932fee14d5fb32643428e5ab8eeed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/fb0932fee14d5fb32643428e5ab8eeed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/e9a52b6de0cfb07584f2628fd6f10885/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/e9a52b6de0cfb07584f2628fd6f10885/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/fff432f1b8f1e81afdec2434facfb947/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/fff432f1b8f1e81afdec2434facfb947/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/05b23100d9655d016ebfc227d71e748a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/05b23100d9655d016ebfc227d71e748a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/50dcdf44b64653fa7bef39e364256b81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/faissolfoo/.gradle/caches/transforms-2/files-2.1/50dcdf44b64653fa7bef39e364256b81/AndroidManifest.xml:20:5-44
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+		ADDED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faissolfoo/AndroidStudioProjects/AndroidProjects/AzkarSeb7ty/app/src/main/AndroidManifest.xml
